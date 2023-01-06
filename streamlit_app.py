@@ -3,7 +3,7 @@ import geemap.foliumap as geemap
 import streamlit as st
 from streamlit_folium import st_folium
 
-st.set_page_config(layout="wide")
+st.set_page_config(page_title="Surface Depressions", layout="wide")
 
 st.title("A National Dataset of Surface Depressions")
 
